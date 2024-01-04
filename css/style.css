@@ -1,0 +1,47 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  header {
+    background-color: #007BFF;
+    color: #ccc;
+    text-align: center;
+    padding: 20px 0;
+  }
+
+  main{
+    padding: 10px;
+  }
+
+  .gambar {
+    text-align: center;
+  }
+  .calculator {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px ;
+
+  }
+
+  footer {
+    background-color:  #007BFF;
+    text-align: center;
+    padding: 10px ;
+    position: fixed;
+    bottom: 0;
+    width: 100% ;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
